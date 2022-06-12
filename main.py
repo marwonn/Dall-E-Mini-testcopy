@@ -1,7 +1,7 @@
 import streamlit as st
 from dalle import create_and_show_images
 
-st.title("DALL-E Mini")
+st.title("DALL-E Generator by marwonn")
 
 text = st.text_input("What should I create?")
 
